@@ -8,20 +8,20 @@ English arpabet centric phoneme system.
 | ah | ah | a | a | a | ah
 | ao | ao | o | o | o | oh
 | aw | aw |
-| ax | ax | | e |
+| ax | ax | | e | | ee
 | ay | ay | | ai
 | eh | eh | e | e | e |
 | er | er |
 | ey | ey | | ei |
 | ih | ih |
-| iy | iy | i | i | i |
+| iy | iy | i | i | i, I | ih
 | ow | ow | | ou
 | oy | oy |
 | uh | uh |
-| uw | uw | u | u | u |
+| uw | uw | u | u | u, U | ou
 | el | held L |
 | em | held M |
-| en | held N | N |
+| en | held N | N | | | nn
 | an | | | an |
 | ang | | | ang |
 | ao1 | | | ao |
@@ -46,7 +46,7 @@ English arpabet centric phoneme system.
 | ui | | | ui |
 | un | | | un |
 | uo | | | uo |
-| yu | | | v |
+| yu | | | v | | uh
 | ye | | | ve |
 | van | | | van |
 | vn | | | vn |
@@ -60,32 +60,33 @@ English arpabet centric phoneme system.
 ### Consonants
 | Phoneme | English | Japanese | Mandarin | Spanish | French
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| b | b | b | b | b |
+| b | b | b | b | b, B | b
 | ch | ch | ch | ch |
-| d | d | d | d | d |
+| d | d | d | d | d ,D | d
 | dh | dh |
 | dx | dx |
-| f | f | f | f |
-| g | g | g | g |
-| hh | hh | h | h |
-| jh | jh | j | zh |
-| k | k | k | k |
-| l | l | | l |
-| m | m | m | m |
-| n | n | n | n |
-| ng | ng |
-| p | p | p | p |
-| r | r | | |
-| rx | | r | | r |
+| f | f | f | f | f, F | f
+| g | g | g | g | g, G | g
+| hh | hh | h | h | x, H | h
+| jh | jh | j | zh | J | |
+| k | k | k | k | k, K | k
+| l | l | | l | l | l
+| m | m | m | m | m | m
+| n | n | n | n | n | n
+| ng | ng | | | | ng
+| p | p | p | p | p | p
+| r | r | | | rh
+| rx | | r | | r | |
 | s | s | s | s |
-| sh | sh | sh | sh |
-| t | t | t | t |
+| sh | sh | sh | sh | | sh
+| t | t | t | t | t | t, tx
 | ts | | ts | c |
 | th | th |
-| v | v | v | |
-| w | w | w | w |
-| y | y | y | y |
+| v | v | v | | v | v
+| w | w | w | w | | w
+| y | y | y | y | Y, ll | |
 | z | z | z | |
+| zh | zh | | | | j
 | j | | | j |
 | q1 | | | q |
 | r1 | | | r |
