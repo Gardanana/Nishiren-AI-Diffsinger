@@ -1,5 +1,5 @@
 # Nishiren v1.0 Phoneme Chart
-English arpabet centric phoneme system.
+Nishiren for Diffsinger uses an English arpabet centric phoneme system.
 ### Vowels
 | Phoneme | English | Japanese | Mandarin | Spanish | French
 | :---: | :---: | :---: | :---: | :---: | :---: |
