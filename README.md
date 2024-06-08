@@ -8,7 +8,7 @@ Official Site: https://gardanana.neocities.org/
 
 <br>
 
-![Static Badge](https://img.shields.io/badge/Download-v0.11-blue?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2FGardanana%2FNishiren-AI-Diffsinger%2Freleases%2Ftag%2Fbeta_v0.11)<br>
+[DOWNLOAD LATEST (v1.0)](https://github.com/Gardanana/Nishiren-AI-Diffsinger/releases/tag/v1.0)<br>
 By downloading this voicebank you agree to their [Terms of Service](/terms-of-service.md)
 
 # TECHNICAL INFORMATION
@@ -31,12 +31,17 @@ Extra phonemes: [exh], [axh] for exhales<br>
 
 [Full phoneme chart](/phoneme-chart.md)
 
-### Vocal modes: 
+### Vocal modes (and Dataset Info):
 - Standard (50 min): Standard tone for Nishiren. 
 - Power (6 min): Stronger and deeper tone
 - Sweet (5 min): Upbeat, nasaly tone
 - Soft (7 min): Darker tone. Use with tension to get a whispery voice
 - 2P (5 min): Kayama Gard's voice. Nasaly and strongly voice acted
+
+Multispeaker trained with: Namine Ritsu, OfutonP, PJS, Alex Floarea, TIGER, Opencpop, M4Singer, Tiny Italian Spanish Dataset, Namine Criss, Petit Millefeuille
+
+# SAMPLE
+[![DEMO](https://img.youtube.com/vi/Y13BWpI8-wM/0.jpg)](https://www.youtube.com/watch?v=Y13BWpI8-wM)
 
 # CHANGELOG
 - **v1.0** - Full release. Trained with reflow, switched from energy + breathiness to tension, new recording data, added XLS (Mandarin, Spanish, French)
