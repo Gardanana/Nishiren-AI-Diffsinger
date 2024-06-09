@@ -53,10 +53,10 @@ Nishiren for Diffsinger uses an English arpabet centric phoneme system.
 | ae3 | | | | | ae |
 | oe | | | | | oe |
 | oo | | | | | oo |
-| en3 | | | | | en3 |
-| in3 | | | | | in3 |
+| en3 | | | | | en |
+| in3 | | | | | in |
 | on | | | | | on |
-| un3 | | | | | un3 |
+| un3 | | | | | un |
 ### Consonants
 | Phoneme | English | Japanese | Mandarin | Spanish | French
 | :---: | :---: | :---: | :---: | :---: | :---: |
