@@ -14,7 +14,7 @@ Select Nishiren as a singer to a track. Be sure that their phonemizer is set to 
 Note: Phonemizers may not always be perfect, and additional phoneme editing may be needed.
 
 ### Expressions
-Diffsinger for OpenUTAU can only use curve expressions to ___. Expressions available are:
+Diffsinger for OpenUTAU can only use curve expressions to edit the vocals. Expressions available are:
 
 - Gender (GENC): [default 0, min -100, max 100] Positive gender will give the vocals a lower, darker tone. Negative gender will give vocals a higher, brighter tone.
 - Velocity (VELC): [default 100, min 0, max 200] Increased velocity improve pronunciations in fast paced singing. Lower velocity may improve pronunciations for slower singing, but is not often recommended.
@@ -27,4 +27,4 @@ Note: Vocal modes will always have a sum of 100%. Meaning that if the sum is les
 ### Autopitch
 Nishiren has a trained autopitch model based on the singing samples from their dataset. Autopitch will be applied to a section of connected notes. Right click a note in this section and go to Notes -> Load rendered pitch.
 
-**Warning**: Creator recommends generating pitch for one section at a time to avoid crashing the software. Long sections of connected notes may need to be cut into section in order for pitch rendering to not crash the software.
+**Warning**: Creator recommends generating pitch for one section at a time to avoid crashing the software. Long sections of connected notes may need to be cut into sections in order for pitch rendering to not crash the software.
