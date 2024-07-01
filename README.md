@@ -25,7 +25,7 @@ XLS: Mandarin Chinese, Spanish, French
 [DIFF JA] used for Japanese (Kana+Romaji)<br>
 [DIFF ZH] used for Mandarin (Pinyin+Hanzi)<br>
 [DIFF ES] used for Spanish<br>
-[DIFF FR]* used for French (*download from UFR)
+[DIFF FR]* used for French (*download from [UFR](https://github.com/imsupposedto/Millefeuille-DiffSinger-French))
 
 Extra phonemes: [exh], [axh] for exhales<br>
 	  [q] glotal stops, [cl] closures, [vf] vocal fry
