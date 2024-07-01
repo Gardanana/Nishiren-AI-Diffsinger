@@ -8,7 +8,7 @@ Official Site: https://gardanana.neocities.org/
 
 <br>
 
-[DOWNLOAD LATEST (v1.01)](https://github.com/Gardanana/Nishiren-AI-Diffsinger/releases/tag/v1.01)<br>
+[DOWNLOAD LATEST (v1.02)](https://github.com/Gardanana/Nishiren-AI-Diffsinger/releases/tag/v1.02)<br>
 By downloading this voicebank you agree to their [Terms of Service](/terms-of-service.md)
 
 For details on installing and using the voicebank, check out the [Usage Guide](/usage-guide.md)
@@ -45,6 +45,7 @@ Multispeaker trained with: Namine Ritsu, OfutonP, PJS, Alex Floarea, TIGER, Open
 [![DEMO](https://img.youtube.com/vi/Y13BWpI8-wM/0.jpg)](https://www.youtube.com/watch?v=Y13BWpI8-wM)
 
 # CHANGELOG
+- **v1.01** - Fixed dsdict-ja
 - **v1.01** - dsvariance file patch
 - **v1.0** - Full release. Trained with reflow, switched from energy + breathiness to tension, new recording data, added XLS (Mandarin, Spanish, French)
 - **v0.11** - Updated vocoder
