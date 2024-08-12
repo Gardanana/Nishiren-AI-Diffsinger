@@ -8,7 +8,7 @@ Official Site: https://gardanana.neocities.org/
 
 <br>
 
-[DOWNLOAD LATEST (v1.02)](https://github.com/Gardanana/Nishiren-AI-Diffsinger/releases/tag/v1.02)<br>
+[DOWNLOAD LATEST (v1.1)](https://github.com/Gardanana/Nishiren-AI-Diffsinger/releases/tag/v1.1)<br>
 By downloading this voicebank you agree to their [Terms of Service](/terms-of-service.md)
 
 For details on installing and using the voicebank, check out the [Usage Guide](/usage-guide.md)
@@ -34,10 +34,10 @@ Extra phonemes: [exh], [axh] for exhales<br>
 
 ### Vocal modes (and Dataset Info):
 - Standard (50 min): Standard tone for Nishiren. 
-- Power (6 min): Stronger and deeper tone
-- Sweet (5 min): Upbeat, nasaly tone
-- Soft (7 min): Darker tone. Use with tension to get a whispery voice
-- 2P (5 min): Kayama Gard's voice. Nasaly and strongly voice acted
+- Power (7 min): Stronger and deeper tone
+- Sweet (6 min): Upbeat, nasaly tone
+- Soft (10 min): Darker tone. Use with tension to get a whispery voice
+- 2P (8 min): Kayama Gard's voice. Nasaly and strongly voice acted
 
 Multispeaker trained with: Namine Ritsu, OfutonP, PJS, Alex Floarea, TIGER, Opencpop, M4Singer, Tiny Italian Spanish Dataset, Namine Criss, Petit Millefeuille
 
@@ -45,7 +45,8 @@ Multispeaker trained with: Namine Ritsu, OfutonP, PJS, Alex Floarea, TIGER, Open
 [![DEMO](https://img.youtube.com/vi/Y13BWpI8-wM/0.jpg)](https://www.youtube.com/watch?v=Y13BWpI8-wM)
 
 # CHANGELOG
-- **v1.01** - Fixed dsdict-ja
+- **v1.1** - Retrained acoustic and tension with VR. Exported vocoder with mel base e to increase inference speed. Switched f0 extractor from parselmouth to rmvpe, and accelerator to unipc. Recording data added
+- **v1.02** - Fixed dsdict-ja
 - **v1.01** - dsvariance file patch
 - **v1.0** - Full release. Trained with reflow, switched from energy + breathiness to tension, new recording data, added XLS (Mandarin, Spanish, French)
 - **v0.11** - Updated vocoder
