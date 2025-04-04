@@ -1,6 +1,6 @@
 # Usage Guide
 ## Installation
-Nishiren Diffsinger is currently made to function on the OpenUTAU software. The latest beta version of the [official branch](https://github.com/stakira/OpenUtau), or the [diffsinger branch](https://github.com/xunmengshe/OpenUtau) (creator recommended) can be downloaded to use the voicebank. Errors may occur when not using the latest version of the software. The voicebank can be installed by dragging it onto the opened program, or by unzipping it in the “Singers” folder in OpenUTAU’s files.
+Nishiren Diffsinger is currently made to function on the OpenUTAU software. The latest beta version of the [official branch](https://github.com/stakira/OpenUtau) must be downloaded to use this voicebank. Errors may occur when not using the latest version of the software. The voicebank can be installed by dragging it onto the opened program, or by unzipping it in the “Singers” folder in OpenUTAU’s files.
 ## Using the Voicebank
 Select Nishiren as a singer to a track. Be sure that their phonemizer is set to the target language.
 
@@ -19,6 +19,7 @@ Diffsinger for OpenUTAU can only use curve expressions to edit the vocals. Expre
 - Gender (GENC): [default 0, min -100, max 100] Positive gender will give the vocals a lower, darker tone. Negative gender will give vocals a higher, brighter tone.
 - Velocity (VELC): [default 100, min 0, max 200] Increased velocity improve pronunciations in fast paced singing. Lower velocity may improve pronunciations for slower singing, but is not often recommended.
 - Tension (TENC): [default 0, min -100, max 100] Positive tension will make vocals sound stronger. Negative tension will make it sound softer.
+- Tone Shift (SHFC): [default 0, min -1200, max 1200] Synthesizes with the shifted amount then shifts it back to the original pitch.
 
 To utilize vocal mode curves, go to the [Project] tab and select Expressions... -> Add all expressions suggested by renderers, then hit Apply. This will allow you to set percentages of vocal modes used by using curves that can be selected at the bottom of the piano roll window.
 
