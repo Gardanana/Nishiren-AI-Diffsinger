@@ -5,8 +5,8 @@ BY DOWNLOADING AND USING CONTENT DISTRIBUTED OF THIS CHARACTER AND VOICE, YOU AG
 • It is not necessary to state the name of this voicebank's author, but it would be greatly appreciated.<br>
 • You cannot call the voicebank by any other name, nor can you attribute the voicebank to any other author.
 ### DISCLAIMER
-• Gardnana holds no responsibility to any incidents, damage, or loss by the user from downloading or using the voicebank or character.<br>
-• Gardnana holds no responsibility to any incidents, damage, or loss that occurs to any third party as a result of usage of the voicebank or voicebank character.
+• Gardanana holds no responsibility to any incidents, damage, or loss by the user from downloading or using the voicebank or character.<br>
+• Gardanana holds no responsibility to any incidents, damage, or loss that occurs to any third party as a result of usage of the voicebank or voicebank character.
 ### COMMERCIAL USE
 • Contact Gardanana for individual approval for commercial use of any voicebanks and voicebank characters.<br>
 • Non-commericial uses do not require approval.<br>
@@ -19,10 +19,9 @@ BY DOWNLOADING AND USING CONTENT DISTRIBUTED OF THIS CHARACTER AND VOICE, YOU AG
 • The following types of content are unconditionally prohibited:
 - Criminal or illegal content
 - Explicit underage sexual content
-- Bigotry and hateful content
-- Violations of UTAU's Usage Policy<br>
+- Bigotry and hateful content<br>
 
-Gardnana reserves the right to request takedown of published content at any time, and users are expected to comply.
+Gardanana reserves the right to request takedown of published content at any time, and users are expected to comply.
 ### REDISTRIBUTION
 • Any current or discontinued voicebank may only be redistributed as the entire unedited voicebank. You must correctly attribute the voicebank's name and author.
 ### EDITING
