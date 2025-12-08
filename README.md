@@ -32,8 +32,7 @@ XLS: Mandarin Chinese, Korean, Spanish, Italian, French, Thai
 
 Extra phonemes: [exh], [axh] for exhales<br>
 	  [gs] glotal stops, [cl] closures, [vf] vocal fry
-
-[Full phoneme chart](/phoneme-chart.md)
+	  
 
 ### Vocal modes (and Dataset Info):
 - Standard (55 min): Standard tone for Nishiren. 
