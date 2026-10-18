@@ -30,7 +30,7 @@ XLS: Mandarin Chinese, Korean, Thai, Indonesian, Tagalog, Spanish, Italian, Braz
 [DIFFS FIL] used for Filipino/Tagalog. Works best using the rule-based Filipino version.<br>
 [DIFFS ES] used for Spanish<br>
 [DIFFS IT] used for Italian<br>
-[DIFFS BRAPA]* used for Brazillian Portuguese (*[Phonemizer from Team BRAPA](https://github.com/Team-BRAPA))<br>
+[DIFFS BRAPA]* used for Brazilian Portuguese (*[Phonemizer from Team BRAPA](https://github.com/Team-BRAPA))<br>
 [DIFFS FR MILLE] used for French<br>
 [DIFFS DE MARZ] used for German<br>
 [DIFFS RU] used for Russian<br>
@@ -43,10 +43,10 @@ Extra phonemes: [exh], [axh] for exhales<br>
 - Standard (60 min): Standard tone for Nishiren. 
 - Power (9 min): Stronger and aggressive tone
 - Soft (14 min): Darker and gentler tone. Use with adjusted variance parameters to get a whispery voice
-- Sweet (10 min): Upbeat and nasaly tone
+- Sweet (10 min): Upbeat and nasal tone
 - Emotional (5 min): Passionate and dramatic tone. Deeper sounding voice
 - Screamo (4 min): Breathy and growly screamo vocals. Usually requires variance parameter editing to function properly (high tension + high breathiness)
-- 2P (6 min): Voice of Kayama Gard, Nishiren's [2P](https://fanlore.org/wiki/2P) derivative. Nasaly and strongly voice acted
+- 2P (6 min): Voice of Kayama Gard, Nishiren's [2P](https://fanlore.org/wiki/2P) derivative. Nasal and strongly voice acted
 
 Multispeaker public datasets: PJS, NIT070, OfutonP, TIGER, Hitsune Kumi, TREi, M4Singer, CSD, Mechol, Printto TH Dataset, Tiny Tagalog Dataset, Gianloop's datasets, Namine Ryoku, BRAPINHA, Petit Millefeuille, SSPCD, Daichi Yoshida, beatboxset1
 
