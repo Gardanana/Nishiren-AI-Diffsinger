@@ -13,7 +13,7 @@ By downloading this voicebank you agree to their [Terms of Service](/terms-of-se
 
 For details on installing and using the voicebank, check out the [Usage Guide](/usage-guide.md)
 # TECHNICAL INFORMATION
-Range: Contralto (A2-A5)<br>
+Range: Contralto (G3-D5)<br>
 Microphones: Samson Go, AT2020USB+, Neumann U87<br>
 Available Parameters: gender (GENC), velocity (VELC), tension (TENC), breathiness (BREC), voicing (VOIC), autopitch<br>
 Recorded Languages: English, Japanese<br>
