@@ -1,18 +1,24 @@
 # Usage Guide
 ## Installation
-Nishiren Diffsinger is currently made to function on the OpenUTAU software. Downloading the latest beta version of the [official branch](https://github.com/stakira/OpenUtau) is recommended to use this voicebank. Errors may occur when not using the latest version of the software. The voicebank can be installed by dragging it onto the opened program, or by unzipping it in the “Singers” folder in OpenUTAU’s files.
+Nishiren Diffsinger is made to primarily function on the OpenUTAU software. Downloading the latest beta version of the [official branch](https://github.com/stakira/OpenUtau) is recommended to use this voicebank. Errors may occur when not using the latest version of the software, or when using outdated forks/implementations. The voicebank can be installed by dragging it onto the opened program, or by unzipping it in the “Singers” folder in OpenUTAU’s files.
+
 ## Using the Voicebank
 Select Nishiren as the singer for a track. Be sure that their phonemizer is set correctly to one of the following:
 
-**[DIFF]** used for both Kana and Pinyin inputs<br>
-**[DIFF EN]** used for English, Kana(JA), and Hangul(KO) inputs<br>
-**[DIFF JA]** used for Japanese (Kana+Romaji)<br>
-**[DIFF ZH]** used for Mandarin (Hanzi+Pinyin)<br>
-**[DIFF KO]** used for Korean (Hangul+Romaji)<br>
-**[DIFF ES]** used for Spanish<br>
-**[DIFF IT]** used for Italian<br>
-**[DIFF FR MILLE]** used for French<br>
-**[DIFF TH]*** used for Thai (*download from PrintMOV's site)
+**[DIFFS]** used for both Kana and Pinyin inputs<br>
+**[DIFFS EN]** used for English, Kana(JA), and Hangul(KO) inputs<br>
+**[DIFFS JA]** used for Japanese (Kana+Romaji)<br>
+**[DIFFS ZH]** used for Mandarin (Hanzi+Pinyin)<br>
+**[DIFFS KO]** used for Korean (Hangul+Romaji)<br>
+**[DIFFS TH]*** used for Thai (Must install phonemizer manually)<br>
+**[DIFFS FIL]** used for Filipino/Tagalog. Works best using the rule-based Filipino version<br>
+**[DIFFS ID]** used for Indonesian (Must install phonemizer manually)<br>
+**[DIFFS ES]** used for Spanish<br>
+**[DIFFS IT]** used for Italian<br>
+**[DIFFS BRAPA]** used for Brazilian Portuguese (Must install phonemizer manually)<br>
+**[DIFFS FR MILLE]** used for French<br>
+**[DIFFS DE MARZ]** used for German<br>
+**[DIFFS RU]** used for Russian
 
 Note: Phonemizers may not always be perfect and additional phoneme editing may be recommended.
 
@@ -27,9 +33,9 @@ Diffsinger for OpenUTAU can only use curve expressions to edit the vocals. Expre
 - __Tone Shift (SHFC):__ [default 0, min -1200, max 1200] Synthesizes the vocals up or down the shifted amount, then pitches the output to the intended pitch.
 
 ### Vocal modes
-Voice colors (or vocal modes) can be set using the CLR expression or used as curve expressions to use them at certain percentages or to mix them together. To utilize vocal mode curves, go to the [Project] tab and select [Expressions...] then find the button near the bottom that says [Add all expressions suggested by renderers], then hit Apply. This will allow you to set the percentages of each vocal modes used from the curve expressions that can be selected at the bottom of the piano roll window.
+Voice colors (also known as vocal modes) can be set using the CLR expression or used as curve expressions to use them at certain percentages or to mix them together. To utilize vocal mode curves, go to the [Project] tab and select [Expressions...] then find the button near the bottom that says [Add all expressions suggested by renderers], then hit Apply. This will allow you to set the percentages of each vocal modes used from the curve expressions that can be selected at the bottom of the piano roll window.
 
-Note: Vocal modes will always have a sum of 100%. Meaning that if the sum is less than 100%, it is complemented with the speaker specified in the CLR. If the sum is greater than 100%, its ratio is scaled down so that the sum equals 100% while maintaing the ratio of the voice colors.
+Note: Vocal modes will always have a sum of 100%. Meaning that if the sum is less than 100%, it is complemented with the speaker specified in the CLR. If the sum is greater than 100%, its ratio is scaled down so that the sum equals 100% while maintaining the ratio of the voice colors.
 
 Fun fact: Vocal modes can also be set to negative amounts by changing the minimum value to below zero. This can be used in creative ways, from reducing the specific tone of a voice color to creating unique tones not present from using the basic voice colors.
 
