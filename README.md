@@ -24,7 +24,7 @@ XLS: Mandarin Chinese, Korean, Thai, Indonesian, Tagalog, Spanish, Italian, Braz
 [DIFFS EN] used for English, Kana(JA), and Hangul(KO) inputs<br>
 [DIFFS JA] used for Japanese (Kana+Romaji)<br>
 [DIFFS ZH] used for Mandarin (Hanzi+Pinyin)<br>
-[DIFFS KO] used for Korean (Hangul+Romaji)
+[DIFFS KO] used for Korean (Hangul+Romaji)<br>
 [DIFFS TH]* used for Thai (\*[Phonemizer from PRINTmov](https://github.com/printto/diffs_th_plugin))<br>
 [DIFFS ID]* used for Indonesian (\*[Phonemizer from PRINTmov](https://github.com/printto/diffs_th_plugin))<br>
 [DIFFS FIL] used for Filipino/Tagalog. Works best using the rule-based Filipino version.<br>
