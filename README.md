@@ -15,7 +15,7 @@ For details on installing and using the voicebank, check out the [Usage Guide](/
 # TECHNICAL INFORMATION
 Range: Contralto (G3-D5)<br>
 Microphones: Samson Go, AT2020USB+, Neumann U87<br>
-Available Parameters: gender (GENC), velocity (VELC), tension (TENC), breathiness (BREC), voicing (VOIC), autopitch<br>
+Available Parameters: gender (GENC), velocity (VELC), tension (TENC), breathiness (BREC), voicing (VOIC), tone shift (SHFC), autopitch<br>
 Recorded Languages: English, Japanese<br>
 XLS: Mandarin Chinese, Korean, Thai, Indonesian, Tagalog, Spanish, Italian, Brazilian Portuguese, French, German, Russian
 
