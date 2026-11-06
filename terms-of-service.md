@@ -16,7 +16,7 @@ BY DOWNLOADING AND USING CONTENT DISTRIBUTED OF THIS CHARACTER AND VOICE, YOU AG
 • Seek author permission to create violent content.<br>
 • Do not create political content.<br>
 • Do not create religious content.<br>
-• Do not use with unethically AI generated lyrics or music.<br>
+• Do not use with unethically AI generated lyrics, music, art, or videos.<br>
 • The following types of content are unconditionally prohibited:
 - Criminal or illegal content
 - Explicit underage sexual content
